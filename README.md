@@ -7,7 +7,7 @@
 
 - 🔭 During my free time, I am currently working on some personal pet projects like [CoffeeVar](https://github.com/DarkNet07/CoffeeVar)
 
-- 🌱 I'm currently self-teaching **Vue and Angular**
+- 🌱 I'm currently self-teaching **Vue, React Native and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DarkNet07/](https://github.com/DarkNet07/)
 
