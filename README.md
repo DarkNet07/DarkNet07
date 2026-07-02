@@ -1,27 +1,117 @@
-<h1 align="center">Hello 👋, I'm Parviz</h1>
-<h3 align="center">A dedicated frontend developer specializing in modern web and mobile technologies, based in Russia.</h3>
+<!-- Анимированная волна-шапка -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parviz%20Sanginov&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Frontend%20%E2%80%A2%20Mobile%20%E2%80%A2%20Clean%20Code&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darknet07&label=Profile%20views&color=0e75b6&style=flat" alt="darknet07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darknet07" alt="darknet07" /></a> </p>
-
-- 🌱 I am continuously advancing my expertise in **Vue, React, React Native, and Flutter** to deliver robust, scalable applications.
-- 👨‍💻 Explore my portfolio of projects at [https://github.com/DarkNet07/](https://github.com/DarkNet07/)
-- 📝 Connect with me on Telegram for discussions or collaborations: [https://t.me/encodered](https://t.me/encodered)
-- 💬 Ask me about **JavaScript, TypeScript, React, Redux, Vue, Vuex, Pinia, Flutter, Provider, Riverpod, BLoC, dio, React-Native, Node.js, HTML, CSS, PostgreSQL, Sequelize, REST APIs, and Express.js** – I bring hands-on experience to these technologies.
-- 📫 Reach me via email at **iparviz50@gmail.com**
-- 👔 View my professional profile on LinkedIn: [https://www.linkedin.com/in/sanginov/](https://www.linkedin.com/in/sanginov/)
-- ⚡ Fun fact: I thrive on transforming complex challenges into elegant solutions, fueled by a passion for clean code and innovative problem-solving. ☕💻
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanginov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanginov" height="30" width="40" /></a>
-<a href="https://fb.com/sanginov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanginov" height="30" width="40" /></a>
+<!-- Печатающийся текст -->
+<p align="center">
+  <a href="https://github.com/DarkNet07">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FE428E&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%E2%80%A2+Vue+%E2%80%A2+React+Native+%E2%80%A2+Flutter;I+turn+complex+problems+into+elegant+code;Always+learning.+Always+building." alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darknet07&label=Profile+views&color=fe428e&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/darknet07?label=Followers&style=for-the-badge&color=a9fef7&labelColor=141321" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-f8d847?style=for-the-badge&labelColor=141321" alt="focus" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darknet07&show_icons=true&locale=en&layout=compact" alt="darknet07" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darknet07&show_icons=true&locale=en" alt="darknet07" /></p>
+## 🧬 About me
+
+```typescript
+const parviz = {
+  location: "Russia 🇷🇺",
+  role: "Frontend Developer",
+  code: ["TypeScript", "JavaScript", "Dart"],
+  frontend: ["React", "Vue", "Redux", "Vuex", "Pinia", "Tailwind"],
+  mobile: ["React Native", "Flutter", "Riverpod", "BLoC"],
+  backend: ["Node.js", "Express", "PostgreSQL", "MongoDB", "Sequelize"],
+  currentlyLearning: "Everything that makes apps faster ⚡",
+  funFact: "Complex challenge in → elegant solution out ☕💻",
+};
+```
+
+- 🚀 Постоянно прокачиваюсь в **Vue, React, React Native и Flutter**
+- 💡 Люблю превращать сложные задачи в чистый, поддерживаемый код
+- 🤝 Открыт к сотрудничеству и интересным проектам — пишите в [Telegram](https://t.me/encodered)
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,vue,html,css,sass,tailwind,bootstrap&perline=10" alt="frontend stack" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&perline=10" alt="mobile stack" />
+<img src="https://img.shields.io/badge/React_Native-141321?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react native" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql&perline=10" alt="backend stack" />
+
+**Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,docker,figma,jest,webpack,babel,linux,postman,ps&perline=10" alt="tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=darknet07&show_icons=true&theme=radical&hide_border=true&bg_color=141321&count_private=true&include_all_commits=true" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darknet07&layout=compact&theme=radical&hide_border=true&bg_color=141321&langs_count=8" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=darknet07&theme=radical&hide_border=true&background=141321" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkNet07&bg_color=141321&hide_border=true&color=a9fef7&line=fe428e&point=f8d847&area=true&area_color=fe428e" alt="activity graph" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DarkNet07&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarkNet07/DarkNet07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarkNet07/DarkNet07/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/DarkNet07/DarkNet07/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  </picture>
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://t.me/encodered"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
+<a href="https://www.linkedin.com/in/sanginov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:iparviz50@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://fb.com/sanginov"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
+<a href="https://github.com/DarkNet07"><img src="https://img.shields.io/badge/GitHub-141321?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
+</div>
+
+<!-- Волна-футер -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
