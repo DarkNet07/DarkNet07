@@ -65,8 +65,8 @@ const parviz = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=darknet07&show_icons=true&theme=radical&hide_border=true&bg_color=141321&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darknet07&layout=compact&theme=radical&hide_border=true&bg_color=141321&langs_count=8" alt="top langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=darknet07&show_icons=true&theme=radical&hide_border=true&bg_color=141321&rank_icon=github&cache_seconds=86400" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darknet07&layout=compact&theme=radical&hide_border=true&bg_color=141321&langs_count=8&cache_seconds=86400" alt="top langs" />
 </div>
 
 <div align="center">
@@ -74,11 +74,11 @@ const parviz = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkNet07&bg_color=141321&hide_border=true&color=a9fef7&line=fe428e&point=f8d847&area=true&area_color=fe428e" alt="activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darknet07&bg_color=141321&hide_border=true&color=a9fef7&line=fe428e&point=f8d847&area=true&area_color=fe428e" alt="activity graph" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarkNet07&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DarkNet07&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </div>
 
 ---
